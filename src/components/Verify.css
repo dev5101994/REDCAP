@@ -1,0 +1,31 @@
+.red h1 {
+    color: red;
+    display: flex;
+    justify-content: center;
+}
+
+.input {
+    margin-top: 60px;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    margin-left: 80px;
+}
+
+.input input {
+    width: 200px;
+    border: 2px solid #03e8fc;
+    border-radius: 8px;
+    margin: 18px;
+    height: 59px;
+    width: 60px;
+    margin-bottom: 30px;
+
+
+}
+
+/* input[type='text'] {
+    text-align: center;
+    font-size: 30px;
+
+} */

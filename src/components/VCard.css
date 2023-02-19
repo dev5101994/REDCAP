@@ -1,0 +1,16 @@
+.red h1 {
+    color: red;
+    display: flex;
+    justify-content: center;
+    position: relative;
+}
+
+.inputt {
+    display: flex;
+    justify-content: center;
+}
+
+.inputt input {
+    border-color: aqua;
+    /* border: 2px; */
+}

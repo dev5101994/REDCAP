@@ -1,0 +1,7 @@
+{
+  "name": "redCap",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
